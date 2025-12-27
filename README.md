@@ -1,2 +1,2 @@
 # first-repo
-Im the best
+Im trying to be better
